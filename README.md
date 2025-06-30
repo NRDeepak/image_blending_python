@@ -1,4 +1,4 @@
-# Image Blending using Python(Scikit-learn)
+# Image Blending using Python(PIL)
 
 ## Step 1: Capturing and Preparing the Person's Image
 
