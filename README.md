@@ -84,3 +84,5 @@ colours, is saved to the disk.
 <br>
 ![Output 6](output/final_composite_image8.jpeg)
 <br>
+![Output 7](output/final_composite_image8 (1).jpeg)
+<br>
