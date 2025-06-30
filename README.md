@@ -36,8 +36,10 @@ background's ambient light.
 A crucial part of the procedure includes choosing and cropping a rectangular
 area from the background image, specifically where the individual will be
 placed.
+<br>
 Here is an example of the colour-corrected image.
 ![Color Corrected](output/color_corrected_debug.png)
+<br>
 <br>
 (c) **Shadow Generation**
 This step creates a realistic shadow based on the person's shape and the
@@ -50,9 +52,10 @@ transform function with an AFFINE transformation. Finally, a Gaussian Blur is
 applied to the shadow, softening its edges to create a more diffuse and natural
 look, mimicking the soft shadows in the scene.
 Here is an example of shadows generated,
+<br>
 ![Shadow Generated](output/shadow_debug.png)
 <br>
-
+<br>
 ## Step 3: Generating the Final Output
 Final Image Composition: This step creates the final photorealistic image by
 layering the generated elements in the correct order. A copy of the original
