@@ -21,14 +21,14 @@ After removing the background, below are the images.
 
 ## Step 2: Colouring, Blending and Shadow Generation
 
-(a) **Scale and Position**
+(a) **Scale and Position** <br>
 Initially, the script scales the person's image to a realistic size in relation to the
 scene. A scale factor (for instance, 0.3) is established, and the image is resized
 using the resize () function with a high-quality LANCZOS filter to ensure clarity.
 Subsequently, the person is assigned a fixed (x, y) coordinate tuple for
 placement.
 <br>
-(b)  **Color correctness**
+(b)  **Color correctness** <br>
 The foreground and background were captured under different lighting
 conditions. To create harmony between them, the person's image underwent
 colour correction. This goal is to make the person's colours match the
@@ -43,7 +43,7 @@ Here is an example of the colour-corrected image.
 ![Color Corrected](output/color_corrected_debug.png)
 <br>
 <br>
-(c) **Shadow Generation**
+(c) **Shadow Generation** <br>
 This step creates a realistic shadow based on the person's shape and the
 manually determined light direction. A new, transparent RGBA image is created
 to act as a canvas for the shadow. A dark, semi-transparent colour (40, 40, 40,
