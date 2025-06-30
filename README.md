@@ -36,8 +36,10 @@ background's ambient light.
 A crucial part of the procedure includes choosing and cropping a rectangular
 area from the background image, specifically where the individual will be
 placed.
-<br>
 Here is an example of the colour-corrected image.
+<br>
+<br>
+
 ![Color Corrected](output/color_corrected_debug.png)
 <br>
 <br>
@@ -53,6 +55,8 @@ applied to the shadow, softening its edges to create a more diffuse and natural
 look, mimicking the soft shadows in the scene.
 Here is an example of shadows generated,
 <br>
+<br>
+
 ![Shadow Generated](output/shadow_debug.png)
 <br>
 <br>
