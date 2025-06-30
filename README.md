@@ -6,6 +6,5 @@ A high-quality, front-view image of a Virat Kohli is used as the starting point.
 To remove background of the image I used the free website Remove BG.(https://www.remove.bg/)
 After removing the background below are the images.
 
-![Background Removed 1](images/person.png)
-![Background Removed 2](images/person1.png)
+![Background Removed 1](images/person.png)   ![Background Removed 2](images/person1.png)
 
